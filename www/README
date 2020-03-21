@@ -1,0 +1,11 @@
+Passi per inizializzare gli script:
+
+1. eseguire script-init prendendo nota del numero assegnato a 'mis'
+
+2. editare script-init-2 impostando parent_id con il numero assegnato a 'mis'
+
+3. eseguire script-init-2 per generare le directories di primo livello
+
+4. eseguire script-init-3 per generare tutti gli script
+
+5. assegnare permessi come necessario (come minimo assegnare 'exec' a mis
